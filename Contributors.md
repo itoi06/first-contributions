@@ -6240,6 +6240,7 @@ Noam Taub
 - [Maaruf Dauda](https://github.com/emkayDauda)
 - [Shing Hin Ho](https://github.com/shhoalex)
 - [Bernard Yap](https://github.com/bernisaur)
+- [Thomas G] (https://github.com/itoi06)
 - [Kenny Veys](https://github.com/Sneakzz)
 - [Sergiy Dybskiy](https://github.com/416serg)
 - [Vinayak S](https://github.com/VinayakSuresh1997)
